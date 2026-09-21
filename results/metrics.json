@@ -1,0 +1,15 @@
+{
+  "project": "ai-learn-03-bpe-tokenizer-scratch",
+  "seed": 42,
+  "num_merges": 40,
+  "vocab_size": 61,
+  "n_merges_learned": 40,
+  "char_tokens": 53,
+  "bpe_tokens": 25,
+  "compression_ratio": 2.12,
+  "roundtrip_ok": true,
+  "encoded_ids_sample": [25, 51, 30, 50, 42, 43, 0, 54, 17, 57, 43, 40, 1, 29, 42, 13, 35, 28, 12, 1, 43, 43, 9, 46, 0],
+  "decoded": "lower newest wider hello world transformer attention",
+  "test_text": "lower newest wider hello world transformer attention",
+  "runtime_s": 0.407
+}
