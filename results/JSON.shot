@@ -1,0 +1,8 @@
+{
+  "snapshot": "smoke_run",
+  "seed": 42,
+  "vocab_size": 61,
+  "compression_ratio": 2.12,
+  "roundtrip_ok": true,
+  "runtime_s": 0.407
+}
